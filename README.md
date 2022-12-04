@@ -117,13 +117,6 @@ You can test the endpoint using postman as shown below
 
    ![](images/success.JPG)
 
-## Big O and space compelxity
-
-The prime numbers algorithm used is the Sieve of Eratosthenes which has a complexity of n*log(log(n))
-The palindrome algorithm has a complexity of O(n). However, the algorithm has been  sped up by comparing two halves of a number instead of comparing two strings. 
-
-The space complexity for both algorithms is O(N) since the space occupied depends on the range of numbers we need to compute.
-
 
 <!-- LICENSE -->
 ## License
